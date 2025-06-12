@@ -1,0 +1,1 @@
+This repository contains all the progress and projects I complete from the Udemy course “100 Days of Code – 2025 Web Development Bootcamp” by Maximilian Schwarzmüller (AWS Certified, Professional Web Developer & Instructor) and Manuel Lorenz (Professional Business Analyst & Instructor).
